@@ -14,3 +14,8 @@ It is Password generator
 ```shell
 git clone https://github.com/miek8096/Password_generator
 ```
+
+# How to use?
+```shell
+python passwd_generator.sh
+```
