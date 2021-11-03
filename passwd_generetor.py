@@ -1,3 +1,5 @@
+#!/bin/env python
+
 # Import dependencies
 import string
 import random
